@@ -43,21 +43,28 @@ Key Takeaway: Burgers & Chicken generate over 50% of aggregate sales.
 • Dinner Rush (5:00 PM – 7:30 PM): Secondary surge capturing ~30% of daily transactions.
 • Afternoon (2:00 PM – 5:00 PM) & Late Night: Lower volume windows suited for off-peak promotions.
 
-8. Weekday vs. Weekend Trends	• Weekends (Fri – Sun): Feature significantly higher basket sizes and Average Order Value (AOV) driven by multi-item family and group orders.
-• Weekdays (Mon – Thu): Characterized by higher velocity, single-item lunch-rush combos.
+8. Weekday vs. Weekend Trends
+ • Weekends (Fri – Sun): Feature significantly higher basket sizes and Average Order Value (AOV) driven by multi-item family and group orders.
+ • Weekdays (Mon – Thu): Characterized by higher velocity, single-item lunch-rush combos.
 
-9. • Core Revenue Anchors: Burgers ($21,459.99) and Chicken ($12,283.45) collectively account for over 55%
+10. • Core Revenue Anchors: Burgers ($21,459.99) and Chicken ($12,283.45) collectively account for over 55%
 of gross sales every single month, exhibiting unmatched customer loyalty and demand stability.
+
 • March Rebound &amp; Peak Performance: March generated the highest quarterly sales ($20,913.14) and unit
 volume (4,142 items), driven by month-over-month growth in Sandwiches (+14.1%) and Chicken (+8.1%).
+
 • February Calendar Adjustment: February recorded a modest dip in nominal sales ($19,484.12) due solely
 to having 28 calendar days. On a daily run-rate basis, sales were actually slightly higher at ~$695.86/day
 compared to ~$664.73/day in January.
-• Wraps Outlier / Counter-Trend: While most categories dipped slightly in February due to the shorter
-calendar month, Wraps surged to 129 units ($470.71) compared to 100 units ($365.00) in January (+29%
-growth).
-• High Ticket-to-Volume Efficiency (Pasta): Pasta represented 15.0% of total revenue ($9,147.14) while
-accounting for only 9.0% of total items sold, reflecting its high average unit price point ($7.99–$8.99).
+
+• Wraps Outlier / Counter-Trend:
+ While most categories dipped slightly in February due to the shorter
+ calendar month, Wraps surged to 129 units ($470.71) compared to 100 units ($365.00) in January (+29%
+ growth).
+
+• High Ticket-to-Volume Efficiency (Pasta):
+ Pasta represented 15.0% of total revenue ($9,147.14) while
+ accounting for only 9.0% of total items sold, reflecting its high average unit price point ($7.99–$8.99).
 
 10. Top 5 Revenue Menu Items
  1. Bulgogi Burger
